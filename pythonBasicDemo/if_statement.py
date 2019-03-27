@@ -24,3 +24,5 @@ elif age==100:
 
 else:
     print("you can smoke")
+
+
